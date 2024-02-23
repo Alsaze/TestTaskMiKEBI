@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "task": "Choose the right answer",
+      "title": "Which shape shows thirds?",
+      "img": "/img/task0.png",
+      "helper": "Try to think again",
+      "price": 20,
+      "rightAnswer": "A",
+      "variable": [
+        { "answer": "A", "id": "f1"},
+        { "answer": "B", "id": "f2" },
+        { "answer": "C", "id": "f3" }]
+    }
+  ]
+}
